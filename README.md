@@ -1,4 +1,15 @@
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/rafaelh/update-kali.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/rafaelh/update-kali/context:python) [![Twitter](https://img.shields.io/badge/twitter-@rafael_hart-blue.svg)](https://twitter.com/rafael_hart)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/rafaelh/update-kali.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/rafaelh/update-kali/context:python) [![Twitter](https://img.shields.io/badge/twitter-@rafael_hart-blue.svg)](https://twitter.com/nicola_spieser)
+
+#fresh-lemon
+This is a tool to install some important stuff. It will also lead you trought all stuff needs to be done after a fresh installation. 
+Will save you a lot of time! 
+
+Thanks to rafaelh! 
+
+
+- [Usage](#Usage)
+
+
 
 # update-kali
 This is a tool to set up Kali Linux with additional packages and maintain them over time. You can also use this script with other debian-based distros like Ubuntu.
